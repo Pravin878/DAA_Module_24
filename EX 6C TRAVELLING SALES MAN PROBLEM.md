@@ -18,8 +18,8 @@ To Solve Travelling Sales man Problem for the following graph.
 ```
 
 To implement the program for TSP.
-Developed by: ALAGU NACHIYAR
-Register Number:  212222240006
+Developed by: HARIHARAN A
+Register Number:  212222100012
 
 
 from sys import maxsize

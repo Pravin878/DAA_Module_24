@@ -16,8 +16,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 ```
 
 To implement the program for 0/1 knapsack problem.
-Developed by: HARIHARAN A
-Register Number:  212222100012
+Developed by: Pravin kumar G
+Register Number:  212222230109
 
 def knapSack(W, wt, val, n):
     ########## Add your code here #########
